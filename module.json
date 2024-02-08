@@ -1,0 +1,28 @@
+{
+  "id": "ose-srd",
+  "title": "Old School Essentials: SRD",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "ose",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Joel Driver",
+      "discord": "cinderos",
+      "email": "driverjb09@gmail.com",
+      "url": "https://joeldriver.info/",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/driverjb/ose-srd"
+}
