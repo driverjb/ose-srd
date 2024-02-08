@@ -18,11 +18,11 @@
   "authors": [
     {
       "name": "Joel Driver",
-      "discord": "cinderos",
       "email": "driverjb09@gmail.com",
       "url": "https://joeldriver.info/",
-      "flags": {}
+      "discord": "cinderos"
     }
   ],
-  "url": "https://github.com/driverjb/ose-srd"
+  "url": "https://github.com/driverjb/ose-srd",
+  "manifest": "https://github.com/driverjb/ose-srd/blob/main/module.json"
 }
