@@ -24,6 +24,6 @@
     }
   ],
   "url": "https://github.com/driverjb/ose-srd",
-  "manifest": "https://github.com/driverjb/ose-srd/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/driverjb/ose-srd/main/module.json",
   "download": "https://github.com/driverjb/ose-srd/archive/refs/heads/main.zip"
 }
